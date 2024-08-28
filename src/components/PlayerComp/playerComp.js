@@ -1,6 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react'
 import { PlayerArtistCont, PlayerCont, PlayerTitleCont, PrevIconImg, SeekingDiv, SongThumbnailCont, SoundIcon, SoundIconCont, ThumbailImg, TotalControlsDiv, TotalPlayerCont, TotalSeekingDiv, TotalSeekingInput, TotalSongBtnCont } from './player.styled'
-import ReactAudioPlayer from 'react-audio-player';
 import moreOptions from "../Images/moreOptions.svg"
 import prevSong from "../Images/prevSong.svg"
 import nextSong from "../Images/nextSong.svg"

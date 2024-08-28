@@ -1,0 +1,11 @@
+.App {
+  background: linear-gradient(108.18deg, #201606 2.46%, #000000 99.84%);
+  height: 100%;
+  width: 100vw;
+}
+#root{
+  overflow: hidden;
+}
+*{
+  box-sizing: border-box;
+}
